@@ -1,0 +1,25 @@
+2024-02-05 12:10:35: Info Log Entry
+2024-02-05 13:36:03: array (
+  'author' => 
+  array (
+    'id' => 1,
+    'phone' => '+79997779977',
+  ),
+)
+2024-02-05 14:20:42: array (
+  'phone' => '+79998889988',
+  'email' => 'test88@test.com',
+  'name' => 'John',
+)
+2024-02-05 20:16:54: {"phone":"+79996669966","email":"test66@test.com","name":"Lee"}
+2024-02-05 23:55:25: Warning Log Entry
+2024-02-06 07:00:15: First Row
+Second Row
+Third Row
+2024-02-06 10:24:05: array (
+  'phones' => 
+  array (
+    0 => '+799998889988',
+    1 => '+79997779977',
+  ),
+)
